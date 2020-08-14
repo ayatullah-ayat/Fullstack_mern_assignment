@@ -21,3 +21,9 @@
 .mar-btm {
     margin-bottom: 55px;
 }
+
+/* Navbar style */
+
+.navbar-dark {
+    background-color: #3f2a64 !important;
+}
