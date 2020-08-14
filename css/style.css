@@ -13,3 +13,11 @@
     margin:0px auto;
     padding: 20px 0px 20px 0px;
 }
+
+/* about us */
+.jumbotron-about-us {
+    background-color: rgb(156, 106, 212) !important;
+}
+.mar-btm {
+    margin-bottom: 55px;
+}
